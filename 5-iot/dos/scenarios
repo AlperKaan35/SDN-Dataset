@@ -1,0 +1,13 @@
+ddos1.csv and ddos2.csv: TCP SYN attack with spoofed IP addresses, targetting the server.
+ddos3.csv and ddos4.csv: UDP Flood attack with spoofed IP addresses, targetting the server.
+ddos5.csv: TCP SYN attack without spoofing, targetting the server.
+ddos6.csv: UDP Flood attack without spoofing, targetting the server.
+ddos7.csv and ddos8.csv: TCP SYN attack with spoofed IP addresses, targetting one of the IoT devices.
+ddos9.csv and ddos10.csv: UDP Flood attack with spoofed IP addresses, targetting one of the IoT devices.
+ddos11.csv: TCP SYN attack without spoofing, targetting one of the IoT devices.
+ddos12.csv: UDP Flood attack without spoofing, targetting one of the IoT devices.
+
+
+
+	
+

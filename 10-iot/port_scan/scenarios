@@ -1,0 +1,5 @@
+port_scan1.csv and port_scan2.csv: Port scanning, targetting all of the ports of the server.
+port_scan3.csv and port_scan4.csv: Port scanning, targetting all of the ports of one of the IoT devices.
+port_scan5.csv, port_scan6.csv and port_scan7.csv: Port scanning, targetting first 1024 ports of the server.
+port_scan8.csv, port_scan9.csv and port_scan10.csv: Port scanning, targetting first 1024 ports of one of the IoT devices.
+

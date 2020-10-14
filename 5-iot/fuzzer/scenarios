@@ -1,0 +1,2 @@
+fuzzer1.csv - fuzzer5.csv: FTP fuzzer, targeting the server.
+fuzzer6.csv - fuzzer10.csv: HTTP fuzzer, targetting the server.
